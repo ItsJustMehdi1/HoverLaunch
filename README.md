@@ -15,9 +15,9 @@ HoverLaunch makes accessing your desktop folders and files easier with convenien
 
 ## Screenshots
 Video preview
-![HoverLaunch Screenshot](Screenshot%202026-11-25%20113250.png)
+<img width="1017" height="581" alt="Screenshot 2026-11-25 113250" src="https://github.com/user-attachments/assets/7dbc2a49-7efc-4f1c-b42b-f2a5db3bb4c8" />
 Image and folder nesting preview
-![HoverLaunch Screenshot](Screenshot%202026-11-25%20113320.png)
+<img width="1361" height="581" alt="Screenshot 2026-11-25 113320" src="https://github.com/user-attachments/assets/d3165b3d-e8aa-4387-b669-b5f5e38af2cd" />
 Apps launcher folder preview
 <img width="858" height="413" alt="Screenshot 2026-11-25 114842" src="https://github.com/user-attachments/assets/ae8cd4b2-d5be-4d2e-b9f1-08b933cf3e56" />
 
