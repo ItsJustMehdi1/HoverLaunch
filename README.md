@@ -13,10 +13,6 @@ HoverLaunch makes accessing your desktop folders and files easier with convenien
 - **Custom appearance** — Personalize the look of your popups.
 - **File management** — Add, rename and manage files directly.
 
-## Screenshots
-
-*Screenshots coming soon.*
-
 ## Installation
 
 1. Download the latest release.
