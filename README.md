@@ -19,7 +19,7 @@ Video preview
 Image and folder nesting preview
 ![HoverLaunch Screenshot](Screenshot%202026-11-25%20113320.png)
 Apps launcher folder preview
-![HoverLaunch Screenshot](<img width="795" height="420" alt="image" src="https://github.com/user-attachments/assets/723f66a7-9b7d-4ba0-8da8-740b8b36eb00" />
+!(<img width="795" height="420" alt="image" src="https://github.com/user-attachments/assets/723f66a7-9b7d-4ba0-8da8-740b8b36eb00" />
 )
 
 ## Installation
