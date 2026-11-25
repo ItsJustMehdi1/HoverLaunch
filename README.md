@@ -14,11 +14,11 @@ HoverLaunch makes accessing your desktop folders and files easier with convenien
 - **File management** — Add, rename and manage files directly.
 
 ## Screenshots
-
+Video preview
 ![HoverLaunch Screenshot](Screenshot%202026-11-25%20113250.png)
-
+Image and folder nesting preview
 ![HoverLaunch Screenshot](Screenshot%202026-11-25%20113320.png)
-
+Apps launcher folder preview
 ![HoverLaunch Screenshot](image.png)
 
 ## Installation
