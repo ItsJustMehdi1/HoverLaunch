@@ -33,6 +33,8 @@ Apps launcher folder preview
 
 See the [Releases](../../releases) page for the latest version and changelog.
 
+Quick recap of what changed in v1.1: Fixed images zooming in in preview, made it easier to move through nested folders, added customizable rounded corners to files in pop-up.
+
 HoverLaunch is a vibe-coded project, developed with the assistance of AI.
 
 HoverLaunch is still being perfected. You may find bugs and unexpected issues.
